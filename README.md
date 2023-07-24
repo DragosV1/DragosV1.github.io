@@ -3,6 +3,8 @@
 
 ## For the project to run you need to install python.
 
+`https://www.python.org/downloads/`
+
 ## After that you meed to install Flask 
 
 `pip install flask`
