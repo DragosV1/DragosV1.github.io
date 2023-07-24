@@ -10,3 +10,5 @@
 ## Run in the terminal: 
 
 `python app.py`
+
+## Got to '/auth/login' in the url.
