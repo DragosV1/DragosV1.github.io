@@ -5,7 +5,7 @@
 
 `https://www.python.org/downloads/`
 
-## After that you meed to install Flask 
+## After that you need to install Flask 
 
 `pip install flask`
 
